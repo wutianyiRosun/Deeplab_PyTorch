@@ -10,7 +10,7 @@ You can download pretrianed model on COCO [here](https://pan.baidu.com/s/1cnpQ9a
 python train.py
 ```
 
-# Performance
+### Performance
   - Performance in mean IoU on VOC 12 val set (iteration: 20k, single-scale input for training)
   
 | input            |   Deeplab_Pytorch   |
@@ -20,8 +20,8 @@ python train.py
 
 
 note:
-using batchsize=10
+using batchsize=10 for training, you can download the model [here]()
 
 
-## Acknowledgment
+### Acknowledgment
 This code is heavily borrowed from [Pytorch-Deeplab](https://github.com/speedinghzl/Pytorch-Deeplab).
