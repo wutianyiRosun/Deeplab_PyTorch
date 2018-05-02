@@ -20,7 +20,9 @@ python train.py
 
 
 note:
-using batchsize=10 for training, you can download the model [here](https://pan.baidu.com/s/1kLHYiGqF3Z1wbKHNmoa5Lw)
+using batchsize=12for training, 
+
+you can download the model [here](https://pan.baidu.com/s/1kLHYiGqF3Z1wbKHNmoa5Lw)
 
 
 ### Acknowledgment
