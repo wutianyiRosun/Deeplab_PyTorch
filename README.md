@@ -1,6 +1,15 @@
 # Deeplab_Pytorch
 An implementation of DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
 
+
+### Train
+
+You can download pretrianed model on COCO [here](https://pan.baidu.com/s/1cnpQ9ayuH6j7qW2yJOK52g). 
+
+```
+python train.py
+```
+
 # Performance
   - Performance in mean IoU on VOC 12 val set (iteration: 20k, single-scale input for training)
   
